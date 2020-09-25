@@ -1,0 +1,5 @@
+payload:
+  # MyRule
+  - DOMAIN-SUFFIX,axshare.com
+  - DOMAIN-SUFFIX,v2rayssr.com
+  - DOMAIN-SUFFIX,hotbak.net
