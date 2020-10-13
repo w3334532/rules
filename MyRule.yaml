@@ -6,3 +6,6 @@ payload:
   - DOMAIN-SUFFIX,jetbrains.com
   - DOMAIN-SUFFIX,nssurge.com
   - DOMAIN-SUFFIX,americanexpress.com
+  - DOMAIN-SUFFIX,stardock.com
+  - DOMAIN-SUFFIX,stardock.us
+  - DOMAIN-SUFFIX,amazon.com
