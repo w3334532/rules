@@ -1,0 +1,9 @@
+payload:
+  # US IP WEBSITE
+  - DOMAIN-SUFFIX,t-mobile.com
+  - DOMAIN-SUFFIX,jetbrains.com
+  - DOMAIN-SUFFIX,americanexpress.com
+  - DOMAIN-SUFFIX,stardock.com
+  - DOMAIN-SUFFIX,stardock.us
+  - DOMAIN-SUFFIX,amazon.com
+  - DOMAIN-SUFFIX,sourceforge.net
