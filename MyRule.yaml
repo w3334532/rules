@@ -9,7 +9,7 @@ payload:
   - DOMAIN-SUFFIX,mobatek.net
   - DOMAIN-SUFFIX,www.hostloc.com
   - DOMAIN-SUFFIX,wordart.com
-  - DOMAIN_SUFFIX,repo.maven.apache.org
-  - DOMAIN_SUFFIX,charlesproxy.com
+  - DOMAIN-SUFFIX,repo.maven.apache.org
+  - DOMAIN-SUFFIX,charlesproxy.com
 
 
