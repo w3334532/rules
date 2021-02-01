@@ -10,4 +10,6 @@ payload:
   - DOMAIN-SUFFIX,www.hostloc.com
   - DOMAIN-SUFFIX,wordart.com
   - DOMAIN_SUFFIX,repo.maven.apache.org
+  - DOMAIN_SUFFIX,charlesproxy.com
+
 
