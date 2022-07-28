@@ -12,3 +12,5 @@ payload:
   - DOMAIN-SUFFIX,repo.maven.apache.org
   - DOMAIN-SUFFIX,charlesproxy.com
   - DOMAIN-SUFFIX,sencha.com
+  - DOMAIN-SUFFIX,sencha.com
+  - DOMAIN-SUFFIX,qpyou.cn
