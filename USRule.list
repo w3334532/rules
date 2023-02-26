@@ -8,3 +8,6 @@ DOMAIN-SUFFIX,amazon.com,USRule
 DOMAIN-SUFFIX,sourceforge.net,USRule
 DOMAIN-SUFFIX,dealmoon.com,USRule
 DOMAIN-SUFFIX,bankofamerica.com,USRule
+DOMAIN-SUFFIX,discover.com,USRule
+DOMAIN-SUFFIX,chase.com,USRule
+DOMAIN-SUFFIX,paypal.com,USRule
