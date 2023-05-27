@@ -13,3 +13,4 @@ DOMAIN-SUFFIX,chase.com,USRule
 DOMAIN-SUFFIX,paypal.com,USRule
 DOMAIN-SUFFIX,discovercard.com,USRule
 DOMAIN-SUFFIX,openai.com,USRule
+DOMAIN-SUFFIX,sentry.io,USRule
