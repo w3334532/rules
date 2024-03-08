@@ -12,6 +12,26 @@ DOMAIN-SUFFIX,discover.com,USRule
 DOMAIN-SUFFIX,chase.com,USRule
 DOMAIN-SUFFIX,paypal.com,USRule
 DOMAIN-SUFFIX,discovercard.com,USRule
-DOMAIN-SUFFIX,openai.com,USRule
 DOMAIN-SUFFIX,sentry.io,USRule
 DOMAIN-SUFFIX,intuit.com,USRule
+
+
+DOMAIN-SUFFIX,ai.com,USRule
+DOMAIN-SUFFIX,chatgpt.com,USRule
+DOMAIN-SUFFIX,openai.com,USRule
+DOMAIN-SUFFIX,cdn.oaistatic.com,USRule
+DOMAIN,chat.openai.com.cdn.cloudflare.net,USRule
+DOMAIN,openaiapi-site.azureedge.net,USRule
+DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,USRule
+DOMAIN,openaicomproductionae4b.blob.core.windows.net,USRule
+DOMAIN,production-openaicom-storage.azureedge.net,USRule
+DOMAIN-SUFFIX,oaistatic.com,USRule
+OMAIN-SUFFIX,oaiusercontent.com,USRule
+# > New Bing
+DOMAIN-SUFFIX,bing.com,USRule
+DOMAIN-SUFFIX,bingapis.com,USRule
+# > Claude
+DOMAIN-SUFFIX,anthropic.com,USRule
+DOMAIN-SUFFIX,claude.ai,USRule
+# > Bard
+DOMAIN,bard.google.com,USRule
