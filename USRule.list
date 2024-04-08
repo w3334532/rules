@@ -35,3 +35,4 @@ DOMAIN-SUFFIX,anthropic.com,USRule
 DOMAIN-SUFFIX,claude.ai,USRule
 # > Bard
 DOMAIN,bard.google.com,USRule
+DOMAIN-SUFFIX,usa.experian.com,USRule
