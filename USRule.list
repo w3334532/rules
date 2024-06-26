@@ -17,23 +17,23 @@ HOST-SUFFIX,intuit.com,USRule
 HOST-SUFFIX,usa.experian.com,USRule
 
 
-HOST-SUFFIX,ai.com,USRule
-HOST-SUFFIX,chatgpt.com,USRule
-HOST-SUFFIX,openai.com,USRule
-HOST-SUFFIX,cdn.oaistatic.com,USRule
+# > HOST-SUFFIX,ai.com,USRule
+# > HOST-SUFFIX,chatgpt.com,USRule
+# > HOST-SUFFIX,openai.com,USRule
+# > HOST-SUFFIX,cdn.oaistatic.com,USRule
 # > DOMAIN,chat.openai.com.cdn.cloudflare.net,USRule
 # > DOMAIN,openaiapi-site.azureedge.net,USRule
 # > DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,USRule
 # > DOMAIN,openaicomproductionae4b.blob.core.windows.net,USRule
 # > DOMAIN,production-openaicom-storage.azureedge.net,USRule
-HOST-SUFFIX,oaistatic.com,USRule
-HOST-SUFFIX,oaiusercontent.com,USRule
+# > HOST-SUFFIX,oaistatic.com,USRule
+# > HOST-SUFFIX,oaiusercontent.com,USRule
 
 # > New Bing
-HOST-SUFFIX,bing.com,USRule
-HOST-SUFFIX,bingapis.com,USRule
+# > HOST-SUFFIX,bing.com,USRule
+# > HOST-SUFFIX,bingapis.com,USRule
 
 # > Claude
-HOST-SUFFIX,anthropic.com,USRule
-HOST-SUFFIX,claude.ai,USRule
+# > HOST-SUFFIX,anthropic.com,USRule
+# > HOST-SUFFIX,claude.ai,USRule
 
