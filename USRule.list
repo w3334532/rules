@@ -1,38 +1,38 @@
 # > US IP FOR WEBSITE
-DOMAIN-SUFFIX,t-mobile.com,USRule
-DOMAIN-SUFFIX,jetbrains.com,USRule
-DOMAIN-SUFFIX,americanexpress.com,USRule
-DOMAIN-SUFFIX,stardock.com,USRule
-DOMAIN-SUFFIX,stardock.us,USRule
-DOMAIN-SUFFIX,amazon.com,USRule
-DOMAIN-SUFFIX,sourceforge.net,USRule
-DOMAIN-SUFFIX,dealmoon.com,USRule
-DOMAIN-SUFFIX,bankofamerica.com,USRule
-DOMAIN-SUFFIX,discover.com,USRule
-DOMAIN-SUFFIX,chase.com,USRule
-DOMAIN-SUFFIX,paypal.com,USRule
-DOMAIN-SUFFIX,discovercard.com,USRule
-DOMAIN-SUFFIX,sentry.io,USRule
-DOMAIN-SUFFIX,intuit.com,USRule
+HOST-SUFFIX,t-mobile.com,USRule
+HOST-SUFFIX,jetbrains.com,USRule
+HOST-SUFFIX,americanexpress.com,USRule
+HOST-SUFFIX,stardock.com,USRule
+HOST-SUFFIX,stardock.us,USRule
+HOST-SUFFIX,amazon.com,USRule
+HOST-SUFFIX,sourceforge.net,USRule
+HOST-SUFFIX,dealmoon.com,USRule
+HOST-SUFFIX,bankofamerica.com,USRule
+HOST-SUFFIX,discover.com,USRule
+HOST-SUFFIX,chase.com,USRule
+HOST-SUFFIX,paypal.com,USRule
+HOST-SUFFIX,discovercard.com,USRule
+HOST-SUFFIX,sentry.io,USRule
+HOST-SUFFIX,intuit.com,USRule
 
 
-DOMAIN-SUFFIX,ai.com,USRule
-DOMAIN-SUFFIX,chatgpt.com,USRule
-DOMAIN-SUFFIX,openai.com,USRule
-DOMAIN-SUFFIX,cdn.oaistatic.com,USRule
-DOMAIN,chat.openai.com.cdn.cloudflare.net,USRule
-DOMAIN,openaiapi-site.azureedge.net,USRule
-DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,USRule
-DOMAIN,openaicomproductionae4b.blob.core.windows.net,USRule
-DOMAIN,production-openaicom-storage.azureedge.net,USRule
-DOMAIN-SUFFIX,oaistatic.com,USRule
-OMAIN-SUFFIX,oaiusercontent.com,USRule
+HOST-SUFFIX,ai.com,USRule
+HOST-SUFFIX,chatgpt.com,USRule
+HOST-SUFFIX,openai.com,USRule
+HOST-SUFFIX,cdn.oaistatic.com,USRule
+# DOMAIN,chat.openai.com.cdn.cloudflare.net,USRule
+# DOMAIN,openaiapi-site.azureedge.net,USRule
+# DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,USRule
+# DOMAIN,openaicomproductionae4b.blob.core.windows.net,USRule
+# DOMAIN,production-openaicom-storage.azureedge.net,USRule
+HOST-SUFFIX,oaistatic.com,USRule
+HOST-SUFFIX,oaiusercontent.com,USRule
 # > New Bing
-DOMAIN-SUFFIX,bing.com,USRule
-DOMAIN-SUFFIX,bingapis.com,USRule
+HOST-SUFFIX,bing.com,USRule
+HOST-SUFFIX,bingapis.com,USRule
 # > Claude
-DOMAIN-SUFFIX,anthropic.com,USRule
-DOMAIN-SUFFIX,claude.ai,USRule
+HOST-SUFFIX,anthropic.com,USRule
+HOST-SUFFIX,claude.ai,USRule
 # > Bard
-DOMAIN,bard.google.com,USRule
-DOMAIN-SUFFIX,usa.experian.com,USRule
+# DOMAIN,bard.google.com,USRule
+HOST-SUFFIX,usa.experian.com,USRule
