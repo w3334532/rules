@@ -10,7 +10,7 @@ HOST-SUFFIX,dealmoon.com,USRule
 HOST-SUFFIX,bankofamerica.com,USRule
 HOST-SUFFIX,discover.com,USRule
 HOST-SUFFIX,chase.com,USRule
-HOST-SUFFIX,paypal.com,USRule
+# HOST-SUFFIX,paypal.com,USRule
 HOST-SUFFIX,discovercard.com,USRule
 HOST-SUFFIX,sentry.io,USRule
 HOST-SUFFIX,intuit.com,USRule
