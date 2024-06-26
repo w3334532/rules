@@ -14,6 +14,7 @@ HOST-SUFFIX,chase.com,USRule
 HOST-SUFFIX,discovercard.com,USRule
 HOST-SUFFIX,sentry.io,USRule
 HOST-SUFFIX,intuit.com,USRule
+HOST-SUFFIX,usa.experian.com,USRule
 
 
 HOST-SUFFIX,ai.com,USRule
@@ -27,12 +28,12 @@ HOST-SUFFIX,cdn.oaistatic.com,USRule
 # > DOMAIN,production-openaicom-storage.azureedge.net,USRule
 HOST-SUFFIX,oaistatic.com,USRule
 HOST-SUFFIX,oaiusercontent.com,USRule
+
 # > New Bing
 HOST-SUFFIX,bing.com,USRule
 HOST-SUFFIX,bingapis.com,USRule
+
 # > Claude
 HOST-SUFFIX,anthropic.com,USRule
 HOST-SUFFIX,claude.ai,USRule
-# > Bard
-# > DOMAIN,bard.google.com,USRule
-HOST-SUFFIX,usa.experian.com,USRule
+
