@@ -1,0 +1,38 @@
+# > US IP FOR WEBSITE
+HOST-SUFFIX,t-mobile.com,USRule2
+HOST-SUFFIX,jetbrains.com,USRule2
+HOST-SUFFIX,americanexpress.com,USRule2
+HOST-SUFFIX,stardock.com,USRule2
+HOST-SUFFIX,stardock.us,USRule2
+HOST-SUFFIX,amazon.com,USRule2
+HOST-SUFFIX,sourceforge.net,USRule2
+HOST-SUFFIX,dealmoon.com,USRule2
+HOST-SUFFIX,bankofamerica.com,USRule2
+HOST-SUFFIX,discover.com,USRule2
+HOST-SUFFIX,chase.com,USRule2
+HOST-SUFFIX,paypal.com,USRule2
+HOST-SUFFIX,discovercard.com,USRule2
+HOST-SUFFIX,sentry.io,USRule2
+HOST-SUFFIX,intuit.com,USRule2
+
+
+HOST-SUFFIX,ai.com,USRule2
+HOST-SUFFIX,chatgpt.com,USRule2
+HOST-SUFFIX,openai.com,USRule2
+HOST-SUFFIX,cdn.oaistatic.com,USRule2
+# DOMAIN,chat.openai.com.cdn.cloudflare.net,USRule2
+# DOMAIN,openaiapi-site.azureedge.net,USRule2
+# DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,USRule2
+# DOMAIN,openaicomproductionae4b.blob.core.windows.net,USRule2
+# DOMAIN,production-openaicom-storage.azureedge.net,USRule2
+HOST-SUFFIX,oaistatic.com,USRule2
+HOST-SUFFIX,oaiusercontent.com,USRule2
+# > New Bing
+HOST-SUFFIX,bing.com,USRule2
+HOST-SUFFIX,bingapis.com,USRule2
+# > Claude
+HOST-SUFFIX,anthropic.com,USRule2
+HOST-SUFFIX,claude.ai,USRule2
+# > Bard
+# DOMAIN,bard.google.com,USRule2
+HOST-SUFFIX,usa.experian.com,USRule2
