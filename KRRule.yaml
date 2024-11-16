@@ -1,3 +1,4 @@
 payload:
   # KR IP WEBSITE
   - DOMAIN-SUFFIX, mgame.com
+  - DOMAIN-SUFFIX, mgameimage.gscdn.com
