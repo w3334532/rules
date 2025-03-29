@@ -1,16 +1,3 @@
 payload:
   # MyRule
-  - DOMAIN-SUFFIX,axshare.com
-  - DOMAIN-SUFFIX,v2rayssr.com
-  - DOMAIN-SUFFIX,hotbak.net
-  - DOMAIN-SUFFIX,nssurge.com
-  - DOMAIN-SUFFIX,sqlines.com
-  - DOMAIN-SUFFIX,maven.apache.org
-  - DOMAIN-SUFFIX,mobatek.net
-  - DOMAIN-SUFFIX,www.hostloc.com
-  - DOMAIN-SUFFIX,wordart.com
-  - DOMAIN-SUFFIX,repo.maven.apache.org
-  - DOMAIN-SUFFIX,charlesproxy.com
-  - DOMAIN-SUFFIX,sencha.com
-  - DOMAIN-SUFFIX,sencha.com
-  - DOMAIN-SUFFIX,hostloc.com
+  - DOMAIN-SUFFIX,linux.do
