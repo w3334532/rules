@@ -2,3 +2,4 @@ payload:
   # MyRule
   - DOMAIN-SUFFIX,linux.do
   - DOMAIN-SUFFIX,xfltd.bond
+  - DOMAIN-SUFFIX,xfltd.cfd
