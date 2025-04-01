@@ -3,3 +3,4 @@ payload:
   - DOMAIN-SUFFIX,linux.do
   - DOMAIN-SUFFIX,xfltd.bond
   - DOMAIN-SUFFIX,xfltd.cfd
+  - DOMAIN-SUFFIX,xfltd.org
