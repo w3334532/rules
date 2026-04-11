@@ -1,4 +1,3 @@
-DOMAIN-SUFFIX,qpyou.cn
 DOMAIN-SUFFIX,t-mobile.com
 DOMAIN-SUFFIX,jetbrains.com
 DOMAIN-SUFFIX,americanexpress.com
@@ -13,9 +12,10 @@ DOMAIN-SUFFIX,chase.com
 DOMAIN-SUFFIX,paypal.com
 DOMAIN-SUFFIX,discovercard.com
 DOMAIN-SUFFIX,op.gg
-DOMAIN-SUFFIX,yandex.ru
 DOMAIN-SUFFIX,ebay.com
 DOMAIN-SUFFIX,ebaydesc.com
 DOMAIN-SUFFIX,ebayimg.com
 DOMAIN-SUFFIX,ebaystatic.com
 DOMAIN-SUFFIX,intuit.com
+DOMAIN-SUFFIX,usa.experian.com
+DOMAIN-SUFFIX,sentry.io
