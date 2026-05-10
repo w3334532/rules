@@ -4,7 +4,7 @@ HOST-SUFFIX,jetbrains.com,USRule
 HOST-SUFFIX,americanexpress.com,USRule
 HOST-SUFFIX,stardock.com,USRule
 HOST-SUFFIX,stardock.us,USRule
-HOST-SUFFIX,amazon.com,USRule
+# > HOST-SUFFIX,amazon.com,USRule
 HOST-SUFFIX,sourceforge.net,USRule
 HOST-SUFFIX,dealmoon.com,USRule
 HOST-SUFFIX,bankofamerica.com,USRule
