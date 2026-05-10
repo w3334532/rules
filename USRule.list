@@ -15,7 +15,7 @@ HOST-SUFFIX,discovercard.com,USRule
 HOST-SUFFIX,sentry.io,USRule
 HOST-SUFFIX,intuit.com,USRule
 HOST-SUFFIX,usa.experian.com,USRule
-
+HOST-SUFFIX,creditkarma.com,USRule
 
 # > New Bing
 # > HOST-SUFFIX,bing.com,USRule
